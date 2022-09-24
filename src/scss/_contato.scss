@@ -11,7 +11,7 @@
             margin-top: 10px;
         }
         &:focus {
-            border-color: rgb(111, 53, 129);
+            border-color: green;
         }
         &:hover {
             border-width: 2px;
@@ -20,8 +20,4 @@
             border-color: red;
         }
     }
-}
-
-body {
-    background-color:black !important;
 }

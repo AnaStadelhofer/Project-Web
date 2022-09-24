@@ -1,6 +1,11 @@
+body{
+    padding: 0;
+}
+
 nav {
+    
     &.main {
-        background-color: azure;
+        background-color: black;
         box-shadow: 0 0 5px black;
 
         ul {
@@ -19,7 +24,7 @@ nav {
                     justify-content: flex-start;
                 }
 
-                img { 
+                img {
                     max-width: 100px;
                     height: auto;
 
