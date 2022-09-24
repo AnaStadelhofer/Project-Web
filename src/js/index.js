@@ -1,2 +1,7 @@
 import "../scss/app.scss";
-console.log("deu certo mano 🗿")
+import init from "./formulario";
+import "bootstrap/dist/css/bootstrap-grid.min.css";
+
+console.log("Hello World");
+
+init("formCadastro");
